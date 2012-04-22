@@ -1,1 +1,3 @@
-TESTasd
+This is the source code for the UGV controller ROS node and Arduino controller. 
+
+See the ugv_controller.docx document for a detailed break down of the project and all of its parts.
