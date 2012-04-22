@@ -1,0 +1,16 @@
+/home/cobra/ugv_control/gps_navigation/build/CMakeFiles/ROSBUILD_genmsg_cpp.dir
+/home/cobra/ugv_control/gps_navigation/build/CMakeFiles/ROSBUILD_genmsg_lisp.dir
+/home/cobra/ugv_control/gps_navigation/build/CMakeFiles/ROSBUILD_gensrv_cpp.dir
+/home/cobra/ugv_control/gps_navigation/build/CMakeFiles/ROSBUILD_gensrv_lisp.dir
+/home/cobra/ugv_control/gps_navigation/build/CMakeFiles/clean-test-results.dir
+/home/cobra/ugv_control/gps_navigation/build/CMakeFiles/gps_navigation.dir
+/home/cobra/ugv_control/gps_navigation/build/CMakeFiles/rosbuild_precompile.dir
+/home/cobra/ugv_control/gps_navigation/build/CMakeFiles/rosbuild_premsgsrvgen.dir
+/home/cobra/ugv_control/gps_navigation/build/CMakeFiles/rospack_genmsg.dir
+/home/cobra/ugv_control/gps_navigation/build/CMakeFiles/rospack_genmsg_libexe.dir
+/home/cobra/ugv_control/gps_navigation/build/CMakeFiles/rospack_gensrv.dir
+/home/cobra/ugv_control/gps_navigation/build/CMakeFiles/test.dir
+/home/cobra/ugv_control/gps_navigation/build/CMakeFiles/test-future.dir
+/home/cobra/ugv_control/gps_navigation/build/CMakeFiles/test-results.dir
+/home/cobra/ugv_control/gps_navigation/build/CMakeFiles/test-results-run.dir
+/home/cobra/ugv_control/gps_navigation/build/CMakeFiles/tests.dir

@@ -1,0 +1,15 @@
+<package>
+  <description brief="gps_navigation">
+
+     gps_navigation
+
+  </description>
+  <author>UNB COBRA</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/gps_navigation</url>
+  <depend package="gpsd_client"/>
+
+</package>
+
+
